@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/SmoZy92/status_checker"><img src="https://miro.medium.com/max/920/1*w_iicbG7L3xEQTArjHUS6g.jpeg" alt="HTTP Status"></a>
+  <a href="https://github.com/SmoZy92/status_checker"><img src="https://i.imgur.com/8kmUMXz.jpg" alt="HTTP Status"></a>
   <br>
   HTTP status code checker
   <br>
