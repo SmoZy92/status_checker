@@ -1,0 +1,1 @@
+./scripts/subbrute.py lists/names.txt tikehaucapital.com | ./bin/massdns -r lists/resolvers.txt -t A -o S -w results.txt
